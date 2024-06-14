@@ -19,7 +19,6 @@ public class Application implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
         LOGGER.info("Its my second logger");
-        System.out.println("Test commit");
-
+        System.out.println("alalalalalalalalalalalalalaal dupa dupa dupa");
     }
 }
