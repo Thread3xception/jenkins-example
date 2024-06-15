@@ -15,7 +15,7 @@ class ApplicationTests {
 
     @Test
     void contextLoads() {
-        LOGGER.info("Test running %%%%%%%%%%%%%%%%%%%%%%%%%%");
+        LOGGER.info("Test running %%%%%%%%%%%%%%%%%%%%%%%");
         assertTrue(true);
     }
 
